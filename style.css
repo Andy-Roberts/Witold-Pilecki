@@ -1,21 +1,21 @@
 body{
-  background-color:#6EA498;
+  background-color: #6EA498;
 }
 #heading{
-  background-color:#051A38;
+  background-color: #051A38;
   padding:20px;
 }
 h1{
-  color:#758AA8;
+  color: #758AA8;
 }
 h2{
-  color:#4C678C;
+  color: #4C678C;
   font-style:italic;
 }
 
 #body-container, #footer{
   border: solid 3px #051A38;
-  background-color:#256E5E;
+  background-color: #256E5E;
   padding:20px;
   Margin: 20px 50px 20px 50px;
   border-radius:10px;
@@ -28,5 +28,5 @@ img{
 }
 
 a{
-  color:#758AA8;
+  color: #758AA8;
 }
